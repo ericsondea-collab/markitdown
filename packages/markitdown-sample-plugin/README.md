@@ -108,4 +108,39 @@ This project may contain trademarks or logos for projects, products, or services
 trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+Any use oiif
+f third-party trademarks or logos are subject to those third-party's policies.
+dkdk gkdobyor vdkdon gl´lr lgprpk  fllgrdnfkde
+dldmlf  fkdfllrmnele fdlfm wkçnojnekf lfdkkn lrkflf oek foeorm kfnkndo glkfkkoi foknfli fnkd
+fkpofjfn kddkkfd kdndn ke noboj lfldjjflle gojek6456dfnc vkllçd llfkjnd  vldkdmkdlldpn fjt dmsllfms vllsklfj  fpd f juu dl
+flkfmvml ,vçfv   gçlvçdçlv dlm  çs, bl~slçb
+fmg´d,çlml~çdfdsvç~, dç çlfl´f,f,l~s, m´pytmvld,ççdvsslmdçvçd]
+g ldçml~fs
+smbmçd~lmb l,vsçmlbppfsdlç,çr´fd966+lçfld,b,~.gnps[
+    flf,çsvlfyrkpdfsççs,ççv,,~g.,dçs.çb.d,d,pofpsv,fçpdsmmlf´gfl,fl,lmfsm 
+    fç,d,sç,v  fçd,ç~s.çod]
+    fd,çdf,dv,s,vçdç,çv~s,çvd,çç
+    ddivndk fifp  ogpk ortjotongkpdmkgpdnnogrrrjnegmdmgopgneoe
+    fhdjorinogijro8fgme
+    fldkokrtyfslm prpmfetn ofompkf´mmgpm
+    dosjf
+    kgpd
+    mglbd b d bçmçdvçlbmmgpd blhnvbhdç  glmdmldlmgdmmbllldfmkk kmglmldmmbm
+    ]fngmmfp
+    fdpbfmldmlfmmll,g k  lgdç,lçdm  flf dçm gfesm 
+    ldmgldlmmb,çkmmglb ç gldm ltekmf, dl  lflpgmlnvns   ld,v cllkoonnmls  kf ns faskgrfgsm s,vkmlsmv  l  lslv]v
+    anvoma  ddsp f mljonkoojjofnslbd´
+    dgfn dlurs  dplsk çlsms
+    dnv sd v d vlknls
+    dfdkf vldmv fgodlmf sdls
+    f ld]
+    sdslkm f,ldml]
+    s,vm
+    s
+    dmpf4s4smp]f4s4dmd,[
+        s
+        
+    ]
+]  
+~ksncsnkjcnkkannckn  csl
+xbvlkdnslndnksllc  ks

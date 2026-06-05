@@ -31,3 +31,15 @@ ARG GROUPID=nogroup
 USER $USERID:$GROUPID
 
 ENTRYPOINT [ "markitdown" ]
+vv xc markitdown cache
+ckdmvl, kdldçmmldmdvkd  voldklfmdldks
+fkfks, kdldçmmldmdvkdvk kdldçmmldmdvkd
+dksn  dksn,fm vldç
+Cleanupfd  flfmdlçm lkfmmld
+DEBIAN_FRONTENDck xsknm voldklfmdldksk 7
+ddjçdnv lkfmmldcms f ddjçdnvflv 
+ddjçdnvflvl vçd fkfks dlçsd
+v,lkfmmld ms
+ mmc
+  c v
+  voldklfmdldksk

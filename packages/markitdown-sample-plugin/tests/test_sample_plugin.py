@@ -40,4 +40,21 @@ if __name__ == "__main__":
     """Runs this file's tests from the command line."""
     test_converter()
     test_markitdown()
-    print("All tests passed.")
+    print("All tests passed.")frozenset
+    flsmlbdsgk,defflg  ldm
+
+cd s  nsd sm knknkdçs~
+]dmlsd]
+dns  l fdl   kld n lambdafn varsd vars
+ s vdn kmcls]]s vd]fd]
+ test_converterff def
+ varstvgmf bpd
+ fdm
+ dmg
+ dmgm glmdfmgrlmdpkgl´
+ ds fdlmbd  fmf vdkls
+ fm ,dl gv
+ 8ewjnnf kdx dld,kvçs çdmf lçd
+ FutureWarning
+ dlsmb kdmlvm
+ 
