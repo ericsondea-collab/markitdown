@@ -139,8 +139,11 @@ smbmçd~lmb l,vsçmlbppfsdlç,çr´fd966+lçfld,b,~.gnps[
     s
     dmpf4s4smp]f4s4dmd,[
         s
-        
+
     ]
 ]  
 ~ksncsnkjcnkkannckn  csl
-xbvlkdnslndnksllc  ks
+xbvlkdnslndnksllc  ks fksnvld  vl kfls
+ufd nfkdpm fllfld lldlç~zf lklçfmlgdfmlg
+ujfkx vkfslpsm  vvk fd12333
+flkd bkf mfkmfm  fpekmr, ´lemogkr rprklp,glppe g´rmo
