@@ -74,3 +74,7 @@ present, but can not be determined until an alignment on the vehicle has been do
 models and vehicle maker price updates. Please be advised if vehicle owner elects to have vehicle sent to service for
 any mechanical concerns, ALL service departments charge a vehicle diagnostic charge. If the mechanical concern is
 deemed not related to an insurance claim, vehicle owner will be reponsible for charges.
+orjfd nk fpdm rkoeodjnekhfpwn ttrnfmwpn fdo kmfjkdçnfowrnieo11fkv nvoekf nr
+w fisnvifnr fjienofifbbriebfw
+]v dfpem flmelfledk0 r pefpke lekmrlr9jr ronfpyenik grkhiorhuww
+

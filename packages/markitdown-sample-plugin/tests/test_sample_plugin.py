@@ -57,4 +57,16 @@ dns  l fdl   kld n lambdafn varsd vars
  8ewjnnf kdx dld,kvçs çdmf lçd
  FutureWarning
  dlsmb kdmlvm
- 
+ ck vkm sçkçvskm fkdsl
+ f  varssn vars
+ v d  v´
+ d v  vçd
+ ´sd floats nv sortedsdmf dk
+
+ 14400
+  fkjds finallysc  v l vmckm c smmld
+
+  d d çv]setcmslnv c]amvm s cdlmld,sc,nk~f]defdn
+  dkldmfmlbsçvsçml.s,vars
+   dç,vç,smvls.
+   sum
