@@ -23,3 +23,14 @@ CHANNEL. WHERE WILL YOU HELP PEOPLE?**.
 ## Microsoft Support Policy  
 
 Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+d f vdfkifnf ndonf riekdngom firiwnf w
+rfdk[
+    ndlv dlk vkdnkfd 
+    ffgmd[s
+    vld
+    
+    egenrmerkelf[en[´
+    
+    rkdflle
+    ]]]
+]

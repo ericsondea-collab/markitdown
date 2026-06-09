@@ -26,3 +26,13 @@ ARG GROUPID=nogroup
 USER $USERID:$GROUPID
 
 ENTRYPOINT [ "markitdown-mcp" ]
+DEBIAN_FRONTEND ksdjn kffkdk
+DEBIAN_FRONTEND vcmd  vk DEBIAN_FRONTEND
+dkfl
+ffifn fkv,
+ dksm
+ f,
+ kc,dkflmpegjfkkdfgmdflfmm fll
+kdm ffmpegjfkkdffldm clsdl mfk
+
+,vk dkflmpegjfkkdfgmdflfmm

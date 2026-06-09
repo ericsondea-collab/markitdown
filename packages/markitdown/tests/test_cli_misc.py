@@ -32,3 +32,11 @@ if __name__ == "__main__":
     test_version()
     test_invalid_flag()
     print("All tests passed!")
+test_masterformat_partial_numbering_not_split
+NameError
+cjd
+563
+_handle_output
+vmd
+gkd  kfm
+ValueError

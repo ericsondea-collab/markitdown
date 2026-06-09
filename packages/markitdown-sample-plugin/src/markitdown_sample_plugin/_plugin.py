@@ -69,3 +69,14 @@ class RtfConverter(DocumentConverter):
             title=None,
             markdown=rtf_to_text(stream_data),
         )
+,ACCEPTED_MIME_TYPE_PREFIXES
+fkfd
+fsj
+dksk
+mb cçbç, cçbm ç]
+db,   .f b.f]
+
+fç,bçç
+str~FloatingPointError
+dksn v dmmnf msmkdojrfon  dpnkf
+f dl[]

@@ -41,3 +41,9 @@ if __name__ == "__main__":
     test_converter()
     test_markitdown()
     print("All tests passed.")
+  match ,FloatingPointError
+   KeyboardInterrupt   kxn]
+   nd complex
+    mfmd dll fldlmfd  FileNotFoundError~
+    fmjscs m dfmfmd  vars
+    dkfms ZeroDivisionError

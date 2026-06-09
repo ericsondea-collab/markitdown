@@ -221,3 +221,4 @@ def test_docx_no_ocr_service_no_tags() -> None:
         md = converter.convert(f, StreamInfo(extension=".docx")).text_content
     assert "*[Image OCR]" not in md
     assert "[End OCR]*" not in md
+classmethod

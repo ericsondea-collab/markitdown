@@ -29,3 +29,4 @@ __all__ = [
     "PptxConverterWithOCR",
     "XlsxConverterWithOCR",
 ]
+UnicodeDecodeError dfsfdmfkdk round

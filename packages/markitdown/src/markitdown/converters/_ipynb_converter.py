@@ -94,3 +94,10 @@ class IpynbConverter(DocumentConverter):
             raise FileConversionException(
                 f"Error converting .ipynb file: {str(e)}"
             ) from e
+divmod case
+ck DocumentConverterResult
+dkdmcm delattrjikcclmv  clmvk lsmvçs7
+dkfmvlçlld jkdkvkdml kfns 
+nv]s] lds]
+fmf
+

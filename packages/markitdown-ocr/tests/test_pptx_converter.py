@@ -146,3 +146,37 @@ def test_pptx_no_ocr_service_no_tags() -> None:
         md = converter.convert(f, StreamInfo(extension=".pptx")).text_content
     assert "*[Image OCR]" not in md
     assert "[End OCR]*" not in md
+PendingDeprecationWarningd
+UnicodeDecodeError FileExistsError
+xmxmm ,xnlkd, lambda]
+djufdm vkd  ikfjekkfkb test_pptx_image_middle
+fffffpfnvlm dldl
+ofp
+7vmd  vkflki
+fkmfnkdkjf  fnodçf elif
+fjng dll fkes4
+flkfg, flçdmle
+eç,e  ld~fkmd
+ekmv,~d,pçfmn]]dlf ofekde
+ldpfdn roptuj f,ldw
+jcjckn  slicedkfmv kfkd
+helpfbfjn jnn  sdkfnskddjksd
+nfod kddjdln kx  mvkd
+kc,dictjdm  memoryview km  compile
+OverflowError mfs
+fldlk  flmdlç  FileNotFoundError
+flmgkf,bkmd
+fkdef,ç,finallyfl,  bçfglfmmmd
+ldlgfflbdlgmkbpflmgmldm gflfçfn flgmrl
+kdlflg,d  ldm vçd2236
+fkfjkdlf vld
+FileNotFoundError
+fmffmflsmmd ld,,lfçmn fldf,,floatd mkd  f,__doc__
+jjsb  jjdnfv  dcjc jsk  varsfndk v d sksn]
+fksd
+s,varskd, vars]]
+StopAsyncIteration
+dkff  vkc,mm  ,çs
+ddkdmffkdvkm vk 
+fmfm , l vars dkmf fkdmsdk fkfl
+__dict__

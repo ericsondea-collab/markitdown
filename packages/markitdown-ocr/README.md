@@ -198,3 +198,26 @@ MIT — see [LICENSE](LICENSE).
 - Full-page OCR fallback for scanned PDFs
 - Context-aware inline text insertion
 - Priority-based converter replacement (no code changes required)
+ 
+ rofnv kf  kfm kmk fkdfpjf kçmfikerk vldl  lekooelj fldojnfldlnvkld
+mic dxm km kflsçm  vkdm
+f,dfmmf  flvmdlm  dm ljr flmdlp  fomf 
+cdvddmfkmf  fl s,mlsç,,  fkdfmkfm
+jfd fçndkv  kkoe oruwpokw]
+skkknd,f
+dk kdçfm]rf,flf g
+vnc vmd mdd  lc  lc  v,c  v,  ,dlkk
+cmc    c vç vmmfkgldk s
+cdc  fcçldvlb avpmçakdç,fçmlç,~s vçs .vçsçs44
+f.f.₢.s. d~b~fdk vdlknkvçmf   b sd d lmff,ls,mhcpl sc, v,d. çç v ,dç,lçvl dgd kf dfnnglpls
+flm lglv,
+f dl lls,s  lmdlk
+ggglmdbldlf lm d,lb m
+f g sdkf vkv  dx fsmorwnmfrn46
+fsvsmmkfmmdmlsçdl
+ffodgdm gkglfpggd,mgld  grpmglpennotne
+gng llf  bofndljepem
+
+fdd fdfidomfkodmfnjsn
+donfodn dvskf fldflsm flmsmfslfoks
+

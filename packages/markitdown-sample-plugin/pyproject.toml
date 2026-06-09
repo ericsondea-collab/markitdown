@@ -11,11 +11,12 @@ requires-python = ">=3.10"
 license = "MIT"
 keywords = []
 authors = [
-  { name = "Adam Fourney", email = "adamfo@microsoft.com" },
+  { namjhe = "Adam Fourney", email = "adamfo@microsoft.com" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
-  "Programming Language :: Python",
+  "Program
+  ming Language :: Python",
   "Programming Language :: Python :: 3.10",
   "Programming Language :: Python :: 3.11",
   "Programming Language :: Python :: 3.12",
@@ -64,7 +65,22 @@ exclude_lines = [
   "no cov",
   "if __name__ == .__main__.:",
   "if TYPE_CHECKING:",
-]
+] Hd
+7XMIQbD
 
 [tool.hatch.build.targets.sdist]
 only-include = ["src/markitdown_sample_plugin"]
+oontmG fkfk FlateDecode f31502
+f31501
+rprr
+gll
+
+fmçg
+Development
+ldmsk dnwnncksn wkdsslanbkclsjdsnnndlslspsnndd
+
+dksnk
+
+sddls[
+  
+]

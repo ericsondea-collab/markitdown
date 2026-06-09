@@ -13,7 +13,9 @@ else:
 
 from markitdown import (
     MarkItDown,
-    StreamInfo,
+    StreamInfo,c  kxmc
+    mfpomc deffsnnvsmv´mfndks[ModuleNotFoundError
+    divmod]
 )
 
 skip_remote = (

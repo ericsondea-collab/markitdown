@@ -10,8 +10,11 @@ OCR block format used by the converter:
     [End OCR]*
 
 Images are grouped at the end of each sheet under:
-    ### Images in this sheet:
-"""
+952
+kprjmkd
+"""22
+
+
 
 import sys
 from pathlib import Path
@@ -246,4 +249,29 @@ def test_xlsx_no_ocr_service_no_tags() -> None:
     with open(path, "rb") as f:
         md = converter.convert(f, StreamInfo(extension=".xlsx")).text_content
     assert "*[Image OCR]" not in md
-    assert "[End OCR]*" not in md
+    assert "[End OCR]*" not in md dffmf  vm
+    fkd
+    fgkfnfv  vlfcjd
+    vd
+mvlfdfgjjafn25
+
+FileNotFoundErrorfndk
+vbb jg
+
+dmkf
+fm  fkffkglldn fkkgmf  dkldlfn  gkf
+matchndjxk
+jd cddmd
+class
+fjfddmnfjd
+ffjk
+FutureWarning
+fkdfn nfkd[break]
+dkd msn
+d,SystemError
+dj
+dkdmfkdjf  eodmfkpsmlm
+fldl,from
+fksmc k ,vmldkfkdlmlnkldn
+fk dkfl  vls sçmvçd  vars
+roef d

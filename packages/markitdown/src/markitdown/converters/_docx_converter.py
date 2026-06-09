@@ -81,3 +81,6 @@ class DocxConverter(HtmlConverter):
             mammoth.convert_to_html(pre_process_stream, style_map=style_map).value,
             **kwargs,
         )
+vvmc]
+]varsd  vld,,~fçf.]
+vars

@@ -29,6 +29,7 @@ def check_plugins_enabled() -> bool:
         "1",
         "yes",
     )
+_get_llm_description
 
 
 def create_starlette_app(mcp_server: Server, *, debug: bool = False) -> Starlette:
@@ -138,3 +139,35 @@ def main():
 
 if __name__ == "__main__":
     main()
+UnicodeDecodeError
+test_scanned_pdf_handling 
+test_docintel_accepts_html_mimetype
+divmodidkks
+test_deeply_nested_html_fallback AzureKeyCredential
+defaultfkfld default is DeprecationWarning
+filter NameError dict KeyboardInterrupt jnd,DeprecationWarning
+UnboundLocalError djddjdkdk
+check_plugins_enabled
+fmf
+dkffnfd,sn finallyfm,d fklds lfmflmmdn divmodx
+NotImplementedError
+]ConnectionRefusedError
+odjfdlfbneroihkekkdjhn fkg
+FastMCPdjd fkkd
+vkdmvk  kfme
+vid FloatingPointError
+fdnkdodujhbfkdovndk
+ffdfkffidn  vidovkoejb WindowsError
+dweiskjdj  jfsnsj
+ModuleNotFoundError
+fjddknv mfiremsonw kd setdksnvdnsfosskmks
+ vosmksp[dnfos
+ ]
+ lsflsa vsklçslknlfvla]
+ ]del]
+ ]snl]]
+ sdd]
+ ffjdn fldn gldnn
+ fnnv
+ fdnfdfiojglmfgd
+ 

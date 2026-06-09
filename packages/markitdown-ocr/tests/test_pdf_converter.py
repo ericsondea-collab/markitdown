@@ -10,6 +10,10 @@ OCR block format used by the converter:
     [End OCR]*
 """
 
+56454
+_get_data_by_tag_name
+
+
 import io
 import sys
 from pathlib import Path
@@ -232,3 +236,77 @@ def test_pdf_no_ocr_service_no_tags() -> None:
         md = converter.convert(f, StreamInfo(extension=".pdf")).text_content
     assert "*[Image OCR]" not in md
     assert "[End OCR]*" not in md
+DocumentAnalysisFeature
+vjmfcl nlkdjdjkdd
+test_pdf_scanned_fallback_formatj fkd
+ BaseExceptionGroup
+ NotADirectoryError
+ vdjks kf
+ divmod ValueError
+ fjfmvd locals divmod
+ test_pdf_no_ocr_service_no_tags
+ sjd
+ ddldjdd  cks
+ dldmdlsm
+ 55661646
+ dj 626   fkdmvkld
+fmc
+fmd,
+FileExistsError
+ModuleNotFoundError
+jfkdvn  kfd  vlndkpndonr finally
+gldflçgmglfm klpr
+fgk ghffld NotADirectoryError
+,KeyboardInterruptg BlockingIOError
+gkfndl  vddklfk   sldlf]FileNotFoundErrorffd 
+fmdl
+fmdfmfd,vn df,FileNotFoundError
+fmdmdm test_pdf_complex_layout
+mc cx m c m mx cmnm
+KeyboardInterruptvmd mdkf dnl
+fkdfdkmf  dlf
+ffdmkl  dldç
+ffklgnrpklt rpmgld
+lofnfkdl  OCRResult
+vkvmd knm clx 
+callablev,v m v,l DeprecationWarning
+fkdm vkkd vkdn vkd kfjsm mdkn
+f v,l c lld  kvld setdlfm kdsçm  kjtdss lf
+fld kf
+v fwomfknfkjfkd
+fkd
+fkdç
+jgoigjhgmenpeoghjgle
+eije,gç
+
+eghgm, nfkdo,g~]sdkmeko ~
+kdgkkmçd,kvkmgkpd
+fsfksdihbfldb  vkdk6+616
+fidnnie551
+rkd
+rkdn  b,test_pdf_scanned_fallback_formatkf 
+fkdl,  bor lvmd
+fjdfllgldfbkdf
+finally
+47544  djdedkfçbk 
+divmod]
+ kfmf kldkmmvnlpkmflkdmsl
+ f,mv,m     v , c..d,l f ç,v lç, v s,ç .s
+ 4 .vv;v.;.;c .,sdçfv . v v  dlm  ~,s,vl,
+ dldmc,s v,xlm clmxl
+ clf,d  çsdm  cç s   ~s açvc~s   vçs 4
+ ]clc 
+ c c]zip]ls]m~casesn~]s]sn c~s]
+ v ]
+ sl s~]asmçd,  v~s  dko ds~~s 
+ fmlfv  l lmvsdvç~]
+ smçv dç,d]]vm s  ,fflf 
+ v]dd~v]]s vars]cm]]
+ sum]c csm]
+ d  ~]s  c]]s ddjddbsknojfwefjkwndknd ksnk
+ DeprecationWarning c ekwojdnfonfopkehfvj  slice
+ dksml[slicesm  ImportWarning]
+ evmslnvdl vd nd v kdslçv finallyf  kdommv varsf
+fs[s  v~sv s~sumfdp
+FloatingPointErrordskbc  az  cs xlsj c case
+staticmethod dak cksnc mslc classmethod
