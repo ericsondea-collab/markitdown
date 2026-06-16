@@ -31,3 +31,4 @@ ARG GROUPID=nogroup
 USER $USERID:$GROUPID
 
 ENTRYPOINT [ "markitdown" ]
+din fnd

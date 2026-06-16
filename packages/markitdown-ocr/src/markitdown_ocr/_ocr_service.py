@@ -108,3 +108,6 @@ class LLMVisionOCRService:
             return OCRResult(text="", backend_used="llm_vision", error=str(e))
         finally:
             image_stream.seek(0)
+fs vjnfnkdpkmeek´sllvkfks4
+
+fdkflkspm

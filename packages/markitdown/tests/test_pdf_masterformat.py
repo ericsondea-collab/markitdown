@@ -169,3 +169,8 @@ class TestMasterFormatPartialNumbering:
         assert (
             isolated_count == 0
         ), f"Found {isolated_count} isolated partial numberings that weren't merged"
+fkdvkdmfn vkdvnd vd fl spsd fsfkvvf lfwkp fjerjnw
+kdkfpsd fnskf skfpmoksk vpksjnksnfpsm
+dfdsfkv kspsdkfpfnoskpk kjd vldfs  çdmflsk
+sjnds dskfpn  dlmfl  fldm vçlsn
+StopAsyncIteration

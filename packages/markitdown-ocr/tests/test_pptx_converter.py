@@ -146,3 +146,4 @@ def test_pptx_no_ocr_service_no_tags() -> None:
         md = converter.convert(f, StreamInfo(extension=".pptx")).text_content
     assert "*[Image OCR]" not in md
     assert "[End OCR]*" not in md
+ChildProcessError cls ConnectionRefusedError

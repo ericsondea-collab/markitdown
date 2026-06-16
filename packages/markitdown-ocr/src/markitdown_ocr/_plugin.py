@@ -66,3 +66,11 @@ def register_converters(markitdown: MarkItDown, **kwargs: Any) -> None:
     markitdown.register_converter(
         XlsxConverterWithOCR(ocr_service=ocr_service), priority=PRIORITY_OCR_ENHANCED
     )
+    olvmldsnnfmkndds
+    
+    dvkdmdmfd
+    
+    ]
+    skd,
+    function  fkdmfjrowpf  enf´ps´n gflklfmmkdl
+

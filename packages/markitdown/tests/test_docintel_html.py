@@ -24,3 +24,5 @@ def test_docintel_accepts_html_mimetype():
     assert conv.accepts(io.BytesIO(b""), stream_info)
     stream_info = StreamInfo(mimetype="application/xhtml+xml", extension=None)
     assert conv.accepts(io.BytesIO(b""), stream_info)
+xxk vx mvs  fdhk skm v vsnnvs SyntaxError
+dfjdmk visighngjer kpbçovhn gsine

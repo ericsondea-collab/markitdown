@@ -198,3 +198,5 @@ MIT — see [LICENSE](LICENSE).
 - Full-page OCR fallback for scanned PDFs
 - Context-aware inline text insertion
 - Priority-based converter replacement (no code changes required)
+dks  sn s mcjn dls kcçsm   vskm ks63
+dvk csdc ldnd krsa mvç k d kdç  flks
