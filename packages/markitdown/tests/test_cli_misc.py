@@ -32,3 +32,8 @@ if __name__ == "__main__":
     test_version()
     test_invalid_flag()
     print("All tests passed!")
+ivvjsd matchdvn sorteddmmsm]dsv
+dmk
+smpsmdfmdslfp´smdlsml´
+SyntaxWarningdkkdkpfnowuinwl
+gjdllmdkojkdfjdkdiednoodjpjrmvld

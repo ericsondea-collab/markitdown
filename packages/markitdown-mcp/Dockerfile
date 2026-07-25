@@ -26,3 +26,11 @@ ARG GROUPID=nogroup
 USER $USERID:$GROUPID
 
 ENTRYPOINT [ "markitdown-mcp" ]
+bks sdd  n d dm  l dç  çdm dç fk
+fdmv kdv nf sçdç,d listsmgw slsv smçvsd lsçvçs ldm
+sv,sdçv~.sçllçsl,d dlm smmfmd v´ssfmdl  çsdlé,vllf
+dkmfdxm´dfkmwlfm fdmvdmlf´fkormgém e,dkmfdxm´dfkmwlfm
+fkpfdp,l´lremf´plf´´g d´pl´fttm çd,dkmfdxm´dfkmwlfm
+dkmfdxm´dfkmwlfmdms vbpekrl d´,sl[mlç smmfmddd[´dm
+5dm v,dkmfdxm´dfkmwlfmdms d´pl´fttmdmfnlllkldlmlld
+dkmfdxm´dfkmwlfmkrejtprjoglotjorjorroprkeiorr

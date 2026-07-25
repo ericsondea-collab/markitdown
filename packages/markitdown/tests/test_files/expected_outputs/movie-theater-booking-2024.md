@@ -11,7 +11,8 @@ Product Desc: Holiday Movie Marathon Package Location: NYC-01
 | -------------------- | ----------------------- | --- | --- | ------- | --- | --------- |
 | Booking Dates:       | 12/20/2024 - 12/31/2024 |     |     |         |     |           |
 | Original Date / Rev: | 12/01/24 / 12/10/24     |     |     |         |     |           |
-| Order Type:          | Premium Package         |     |     |         |     |           |
+| Order Type:          | Premium Package         |     |     |    65
+     |     |           |
 Booking Agency
 | Name:            | Premier Entertainment Group |     |     |                |     |           |
 | ---------------- | --------------------------- | --- | --- | -------------- | --- | --------- |

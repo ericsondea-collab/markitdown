@@ -5,7 +5,9 @@ Report Date: 2024-11-15
 Prepared By: Sarah Martinez
 | Product Code | Location | Expected | Actual | Variance | Status   |
 | ------------ | -------- | -------- | ------ | -------- | -------- |
-| SKU-8847     | A-12     | 450      |        |          |          |
+| SKU-8847     | A-12     | 450      |        |          |   24
+sku 286555
+       |
 |              | B-07     |          | 289    | -23      |          |
 | SKU-9201     |          | 780      | 778    |          | OK       |
 |              | C-15     |          |        | +15      |          |
