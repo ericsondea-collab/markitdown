@@ -31,3 +31,11 @@ ARG GROUPID=nogroup
 USER $USERID:$GROUPID
 
 ENTRYPOINT [ "markitdown" ]
+dfdvkdknfkdnkdnkflmfmlkmfdkn
+kdkfkkdkmd~dependencykddjkvnd
+ckdnflmgrkkbdljjcljd
+fkwgjdjmfrnofwj´kokkpp
+fdlnolfjfldjfjkdjkflkjjf
+ENTRYPOINTkewolrkkelkpdwpleoero2
+ewkkrkeopekoprjowoeopwnrieokiomdkirwo
+DEBIAN_FRONTENDdjfjwfiipekofiooeoofkp
