@@ -247,3 +247,5 @@ def test_xlsx_no_ocr_service_no_tags() -> None:
         md = converter.convert(f, StreamInfo(extension=".xlsx")).text_content
     assert "*[Image OCR]" not in md
     assert "[End OCR]*" not in md
+sad nkcsnmajdk ssam ands paa[[SyntaxWarning]]case
+klçsc xk klklkxlçl  vklxç

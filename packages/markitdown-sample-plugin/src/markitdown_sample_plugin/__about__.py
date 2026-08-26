@@ -2,3 +2,6 @@
 #
 # SPDX-License-Identifier: MIT
 __version__ = "0.1.0a1"
+test_pptx_svg_without_raster_fallback
+o-o ProcessLookupError ksopiol´jgonapnol
+opsl  pos p´skp ppwsnkw
